@@ -34,3 +34,4 @@ completeness varies wildly, from "more or less done" to "barely even a thing".
 - [crun: config runner (something like Make)](https://github.com/L3viathan/crun)
 - [progressify - Pythonic progress bars (use iqdm or rich instead)](https://github.com/L3viathan/progressify)
 - [zwonullvieracht - 2048 clone](https://github.com/L3viathan/zwonullvieracht)
+- [cuneiform - a tiny ORM, built in a day (with [@digitalarbeiter](https://github.com/digitalarbeiter))](https://github.com/L3viathan/cuneiform)
